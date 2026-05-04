@@ -4,6 +4,10 @@ A fixed-price token swap program built on Solana using the Anchor framework, pai
 
 ---
 
+## Watch the full Demo
+
+- **Peter-Dubin_Rust-practice_Solana-swap**: https://drive.google.com/file/d/142wCzSJhjWKfSx2cDkus7Ei5s_gKu8nm/view?usp=sharing
+
 ## Architecture
 
 ```mermaid
